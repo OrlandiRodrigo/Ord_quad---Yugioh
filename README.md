@@ -29,7 +29,7 @@ Ajude Yugia a pegar as cartas, uma a uma, ao digitar uma letra entre D e Z, de 0
 | Trevor | Tryhard      | 2x "Impermanência Infinita", 2x  "Florescer das Cinzas e Primavera Feliz", 1x  "Devaneio da Batalha" [A] [A] [B] [B] [C] |
 
 ## Output
-O vetor dado será ordenado até o ponto em que Yugia se tornar satisfeita para derrotar um oponente em específico.
+O vetor dado será ordenado até o ponto em que Yugia se tornar satisfeita, com o deck preparado para derrotar um oponente em específico.
 
 ## Guia de instalação
 1. No seu editor de texto com o terminal do Git Bash instalado ou com o próprio Git Bash, baixe o repositório ao rodar o comando:  
