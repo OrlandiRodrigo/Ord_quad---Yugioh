@@ -7,6 +7,9 @@
 | 20/2017129 | Rodrigo de Andrade Lima Orlandi |  
 
 ## Descrição do projeto
+O projeto visa utilizar Insertion Sort em vetores de 40 elementos, parando quando uma das seis condições de parada for escolhida, e demonstrando o vetor resultante.  
+
+## Contexto
 Em um belo dia, Yugia teve vontade de jogar Yugioh. Havia apenas um pequeno detalhe: ela não era muito boa no jogo, e continuava perdendo para seus amigos. Ela conseguiria garantir a vitória, se apenas puxasse aquela carta no momento certo..
 
 Então, Yugia teve a brilhante ideia de trapacear. Não tendo muito dinheiro, ela preparou seu baralho com cartas que funcionassem contra o baralho de seus amigos, e antes da partida, iria embaralhar de tal forma que ela sempre puxasse as cartas que queria na sua mão inicial, composta de 5 cartas.
@@ -29,7 +32,11 @@ Ajude Yugia a pegar as cartas, uma a uma, ao digitar uma letra entre D e Z, de 0
 O vetor dado será ordenado até o ponto em que Yugia se tornar satisfeita para derrotar um oponente em específico.
 
 ## Guia de instalação
-Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
+1. No seu editor de texto, com o terminal do Git Bash, baixe o repositório ao rodar o comando  
+
+```
+$ git clone
+```
 ### Dependências do projeto
 ### Como executar o projeto
 ## Capturas de tela
