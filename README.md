@@ -1,27 +1,33 @@
-# Repositório Template
-Repositório de Template para os projetos da disciplina 
-```
-Nome do Repositório (Apague este tópico)
-  O nome do repositório deve seguir o padrão <TemaProjeto>_<Nome Projeto>.
-  O nome do projeto deve representar o que foi implementado no mesmo (Ex:
-  Game xyz, Implementações Otimizadas de Algoritmos, Aplicativo xpto)
+# Repositório de Insertion Sort
 
-Os temas de projeto são:  
- - Busca - Algoritmos de busca  
- - Ord_quad - Algoritmos de ordenação O(n²)  
- - Ord_nlogn - Algoritmos de ordenação O(n*log(n))  
- - Arv - Algoritmos de manipulação de Árvores  
- - Grafo - Algoritmos de manipulação de Grafos  
- 
- Ex: Busca_ConcorrenteDaGoogle
-```
 ## Alunos  
 | Matrícula | Nome |  
 |-----------------------|---------------------|  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
+| 21/1029512 | Laís Cecília Soares Paes |  
+| 20/2017129 | Rodrigo de Andrade Lima Orlandi |  
+
 ## Descrição do projeto
-Aqui você deve dizer o objetivo deste projeto e o que realmente foi feito neste repositório.
+Em um belo dia, Yugia teve vontade de jogar Yugioh. Havia apenas um pequeno detalhe: ela não era muito boa no jogo, e continuava perdendo para seus amigos. Ela conseguiria garantir a vitória, se apenas puxasse aquela carta no momento certo..
+
+Então, Yugia teve a brilhante ideia de trapacear. Não tendo muito dinheiro, ela preparou seu baralho com cartas que funcionassem contra o baralho de seus amigos, e antes da partida, iria embaralhar de tal forma que ela sempre puxasse as cartas que queria na sua mão inicial, composta de 5 cartas.
+
+Porém, algo terrível aconteceu: Yugia tromba com você, e derruba todas as cartas no chão. Frustrada, ela te manda ajudar a arrumar o baralho dela, antes que ela possa embaralhá-lo da maneira ideal.
+
+## Input
+Ajude Yugia a pegar as cartas, uma a uma, ao digitar uma letra entre D e Z, de 0 a 3 vezes. Ela ficou com duas cópias da carta A, duas da carta B e uma da carta C. Após pegar as cartas, Yugia manda você dizer qual será o próximo oponente dela, após ouvir o nome do qual, irá embaralhar de uma maneira específica. 
+
+| Nome |  Nome do Deck | Cartas Necessárias na Mão |
+|------|---------------|---------------------------|    
+| Eliana | Exodia      | 1x  "Florescer das Cinzas e Primavera Feliz" [B] |
+| Poly | Pot of Greed  | 2x  "Florescer das Cinzas e Primavera Feliz" [B] [B] |
+| Toninho | Tenpai     | 1x  "Devaneio da Batalha" [C] |
+| Marcos | Marcado     | 1x  "Florescer das Cinzas e Primavera Feliz", 1x "Impermanência Infinita" [B] [A] |
+| Kalynne | Kashtira     | 2x "Impermanência Infinita", 1x "Florescer das Cinzas e Primavera Feliz" [A] [A] [B] |
+| Trevor | Tryhard      | 2x "Impermanência Infinita", 2x  "Florescer das Cinzas e Primavera Feliz", 1x  "Devaneio da Batalha" [A] [A] [B] [B] [C] |
+
+## Output
+O vetor dado será ordenado até o ponto em que Yugia se tornar satisfeita para derrotar um oponente em específico.
+
 ## Guia de instalação
 Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
 ### Dependências do projeto
