@@ -69,4 +69,4 @@ Neste tópico você deve adicionar imagens do funcionamento do projeto.
 ## Conclusões
 Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
 ## Referências
-### [1] Base de dados de Yugioh. Acesso em: (https://www.db.yugioh-card.com/yugiohdb/)[https://www.db.yugioh-card.com/yugiohdb/]. Visitado em 08/09/2025.
+### [1] Base de dados de Yugioh. Acesso em: [https://www.db.yugioh-card.com/yugiohdb/](https://www.db.yugioh-card.com/yugiohdb/). Visitado em 08/09/2025.
