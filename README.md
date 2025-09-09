@@ -16,6 +16,8 @@ Então, Yugia teve a brilhante ideia de trapacear. Não tendo muito dinheiro, el
 
 Porém, algo terrível aconteceu: Yugia tromba com você, e derruba todas as cartas no chão. Frustrada, ela ordena você a arrumar o baralho dela, antes que ela possa embaralhá-lo da maneira ideal.
 
+As cartas que Yugia marcou para lutar contra seus oponentes foram duas cópias de *"Impermanência Infinita"*, duas cópias de *"Florescer das Cinzas e Primavera Feliz"* e uma cópia de *"Desvanescer da Batalha"*, as quais foram marcadas respectivamente como A, B e C. Pode-se conferí-las nas figuras 1 a 3, a seguir:
+
 ![imperm](imperm.png)
 ### **Figura 1**: Impermanência Infinita. **Fonte:** [db-yugioh:ii](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13631) [[1]](#Referências)
 <br></br>
