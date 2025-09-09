@@ -32,11 +32,18 @@ Ajude Yugia a pegar as cartas, uma a uma, ao digitar uma letra entre D e Z, de 0
 O vetor dado será ordenado até o ponto em que Yugia se tornar satisfeita para derrotar um oponente em específico.
 
 ## Guia de instalação
-1. No seu editor de texto, com o terminal do Git Bash, baixe o repositório ao rodar o comando  
+1. No seu editor de texto com o terminal do Git Bash instalado ou com o próprio Git Bash, baixe o repositório ao rodar o comando:  
 
 ```
-$ git clone
+$git clone https://github.com/OrlandiRodrigo/Ord_quad---Yugioh.git
 ```
+ou, se desejar baixar com chave SSH: 
+
+```
+$git@github.com:OrlandiRodrigo/Ord_quad---Yugioh.git
+```
+2. 
+
 ### Dependências do projeto
 ### Como executar o projeto
 ## Capturas de tela
