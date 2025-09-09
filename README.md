@@ -35,17 +35,24 @@ O vetor dado será ordenado até o ponto em que Yugia se tornar satisfeita para 
 1. No seu editor de texto com o terminal do Git Bash instalado ou com o próprio Git Bash, baixe o repositório ao rodar o comando:  
 
 ```
-$git clone https://github.com/OrlandiRodrigo/Ord_quad---Yugioh.git
+$ git clone https://github.com/OrlandiRodrigo/Ord_quad---Yugioh.git
 ```
 ou, se desejar baixar com chave SSH: 
 
 ```
-$git@github.com:OrlandiRodrigo/Ord_quad---Yugioh.git
+$ git@github.com:OrlandiRodrigo/Ord_quad---Yugioh.git
 ```
-2. 
+2. Se não houver, baixe Python pelo site [https://www.python.org/](https://www.python.org/).
 
-### Dependências do projeto
 ### Como executar o projeto
+
+Abra o Powershell pelo seu editor de texto ou pelo próprio programa, navegue até a pasta onde baixou o repositório e digite
+
+```
+$ Python3 main.py
+```
+para executar o programa.
+
 ## Capturas de tela
 Neste tópico você deve adicionar imagens do funcionamento do projeto.  
  - As imagens devem ser salvas no repositório.
