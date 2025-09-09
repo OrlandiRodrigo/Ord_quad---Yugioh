@@ -18,13 +18,13 @@ Porém, algo terrível aconteceu: Yugia tromba com você, e derruba todas as car
 
 ![imperm](imperm.png)
 **Figura 1**: Impermanência Infinita. **Fonte:** [db-yugioh:ii](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13631)
-\
+<br></br>
 ![ash](ash.png)
 **Figura 2**: Florescer das Cinzas e Primavera Feliz. **Fonte:** [db-yugioh:ab](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)
-\
+<br></br>
 ![battle_fader](bf.png)
-**Figura 3**: Desvanescer da Batalha. **Fonte:** [db-yugioh:ab](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8617)
-\
+**Figura 3**: Desvanescer da Batalha. **Fonte:** [db-yugioh:bf](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8617)
+<br></br>
 ## Input
 Ajude Yugia a pegar as cartas, uma a uma, ao digitar uma letra entre D e Z, de 0 a 3 vezes. Ela ficou com duas cópias da carta A, duas da carta B e uma da carta C. Após pegar as cartas, Yugia manda você dizer qual será o próximo oponente dela, após ouvir o nome do qual, irá embaralhar de uma maneira específica. 
 
