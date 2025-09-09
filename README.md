@@ -14,7 +14,7 @@ Em um belo dia, Yugia teve vontade de jogar Yugioh. Havia apenas um pequeno deta
 
 Então, Yugia teve a brilhante ideia de trapacear. Não tendo muito dinheiro, ela preparou seu baralho com cartas que funcionassem contra o baralho de seus amigos, e antes da partida, iria embaralhar de tal forma que ela sempre puxasse as cartas que queria na sua mão inicial, composta de 5 cartas.
 
-Porém, algo terrível aconteceu: Yugia tromba com você, e derruba todas as cartas no chão. Frustrada, ela te manda ajudar a arrumar o baralho dela, antes que ela possa embaralhá-lo da maneira ideal.
+Porém, algo terrível aconteceu: Yugia tromba com você, e derruba todas as cartas no chão. Frustrada, ela ordena você a arrumar o baralho dela, antes que ela possa embaralhá-lo da maneira ideal.
 
 ## Input
 Ajude Yugia a pegar as cartas, uma a uma, ao digitar uma letra entre D e Z, de 0 a 3 vezes. Ela ficou com duas cópias da carta A, duas da carta B e uma da carta C. Após pegar as cartas, Yugia manda você dizer qual será o próximo oponente dela, após ouvir o nome do qual, irá embaralhar de uma maneira específica. 
